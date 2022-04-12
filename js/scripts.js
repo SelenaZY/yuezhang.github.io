@@ -23,7 +23,7 @@
                         scrollTop: target.offset().top,
                     },
                     1000,
-                    "easeInOutExpo"
+                    "easeInOutExpo" 
                 );
                 return false;
             }
